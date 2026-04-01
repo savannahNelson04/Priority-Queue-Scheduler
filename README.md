@@ -8,4 +8,6 @@ This project implements a task scheduling system using priority queues (min-heap
 -Handles priority-based job scheduling<br>
 -Simulate dynamic task arrival<br>
 -Calculates average completion time <br>
+<br>
+<br>
 <img width="1316" alt="Screenshot 2024-10-27 at 9 32 31 PM" src="https://github.com/user-attachments/assets/c6124a23-9c17-41fa-bc7f-164c23283769">
